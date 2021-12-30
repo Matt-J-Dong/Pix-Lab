@@ -13,8 +13,6 @@ import java.awt.*;
  *  For this project: a primary color is defined as a color with color codes that are either 0 or 255 only.
  *
  * @Name Matthew Dong
- * @Date 2/14/20
- * @Period 7
  */
 public class PixMethods
 {
