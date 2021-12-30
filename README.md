@@ -1,2 +1,2 @@
 # Pix-Lab
-Worked
+Worked with an introductory project
